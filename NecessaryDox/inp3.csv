@@ -1,0 +1,173 @@
+,Title,Resolution,HelpTopic,approved
+0,The monitor screen is black,"
+*Diagnosis
+*Check to see if the computer turned on.
+*Is the computer turned on? There is a light on the CPU. If the computer is on, it will be lit.
+*Check to see if the monitor getting power.
+*If no lights appear on the front of the monitor at all, it is not getting any power from the power source. Check to see if ALL plugs are secure.
+*Power cord from the computer to the power strip.
+*Power strip to the wall socket.
+*Check to see if the Power Strip turned on.
+*There is a light on the strip. If the strip is on, the indictor light will be on.
+*Check to see if the monitor getting a signal from the computer.
+*There is a light on the monitor. If the monitor is on, it will be lit. If it is turned on, check the contrast and brightness buttons to see if they have been tampered with.
+*A green light on the front of the monitor would indicate that it is getting a signal from the computer.
+*An orange light would indicate there is not signal from the computer. Make sure the computer is on and you see lights on the front of it. Check the cable that runs from the monitor to the computer to see if it has worked loose.
+*Check to see if the brightness has been turned entirely down.
+*Make sure you check the brightness and contrast buttons or settings on the monitor.
+*Check to see if the computer in Power Save or Sleep mode.
+*Move the mouse or press any key on the keyboard to see if the computer will ""wake-up.""
+*Check to see if all peripherals plugged in.
+*Verify that all cables and cords leading in to and out of your computer to insure they are all in tight and not disconnected.
+*Secure the following to the computer:
+*Monitor
+*Mouse
+*Keyboard
+*Printer
+*Network cable to computer and wall (Blue)
+*Check to see if the monitor goes black just as Windows is loaded.
+*This could indicate a problem with the video card driver or settings in Windows. Since you can't see to get to the settings, this is difficult to fix without a visit from technical support.",genericTroubleshoot,0
+1,The screen is not synchronized,"
+*Diagnosis
+*Check to make sure the signal cable is firmly connected in the socket.
+*Check that the output level matches the input level of your computer.
+*Make sure the signal timing of the computer system is within the specification of the monitor.",genericTroubleshoot,0
+2,The screen is too bright or too dark,"
+*Diagnosis
+*Check if the Brightness or contrast control is at the appropriate position, not at the maximum or minimum.
+*Check if the specified voltage is applied
+*Check if the signal timing of the computer system is within the specification of the monitor.
+*Especially, check the horizontal frequency.",genericTroubleshoot,0
+3,The screen is shaking,"
+*Diagnosis
+*Move all objects that emit a magnetic field, such as a motor or transformer, away from the monitor.
+*Check if the specified voltage is applied.
+*Check if the signal timing of the computer system is within the specification of the monitor.",genericTroubleshoot,0
+4,The Printer is not printing,"
+*Diagnosis
+*Check to see if the printer getting power
+*If there are no lights or no display on the front of the printer, the printer is not getting electricity or power. Check to make sure the power cord is plugged in both to the wall or power strip and to the back of the printer. Wiggle the power cord where it plugs into the back of the printer to make sure it is not loose. Some models of desk jets have a two part power cord. In this case, check along the length of the power cord to make sure both parts are plugged in together.
+*If the printer is still not getting power, plug the power cord into a different outlet on the power strip. If this does not work, try plugging the printer into a different wall outlet.
+*Check to see if you can print a Windows test page
+*The windows test page is a basic communication test between your computer and the printer. To print a Windows test page:
+*Left mouse-click on the Start button.
+*Go to Settings and then select Printers. Inside the printer window, you should see a small printer icon with the name of printer you are trying to print to.
+*Place your mouse arrow on the small printer icon and right mouse-click. A small gray window should appear and the last choice in the box is Properties.
+*Left mouse-click on Properties. A printer window with several tabs should appear.
+*On the General tab, there is a Print Test Page button in the lower right corner. Left mouse-click on the button. You may click on the ""Yes"" button on your screen, but the real question is: Did anything print from the printer?
+*If the answer is no, please call or e-mail the Help Desk at x1112.
+*If you can print a Windows test page, try to print from a different program. If the document does not print from that program, the printing problem has to do with that program.
+*Check to see if there is paper in printer. Is their a paper jam?
+*If the printer has paper in the paper tray, the paper may be jammed or not feeding properly. Take the paper out of the paper tray and check to see that the top piece of paper is not crinkled or bent.
+*If the printer is a DeskJet, lift open the front cover and look to see if a piece of paper is halfway fed through. If it is, remove paper gently from the top and close.
+*If the printer is a LaserJet, open the top of the printer and check for paper underneath the toner cartridge. If there is paper there, gently remove it, and replace the toner cartridge.
+*Check to see if the computer getting a signal from the printer.
+*The computer and the printer must be communicating before the printer will print. When you send a document to print, does a small printer appear on the Windows taskbar (down by the time)? If this printer appears on the taskbar, the computer thinks the printer is receiving communication. At this point, the printer should blink lights (if a DeskJet) or says ""printing"" or ""receiving"" on the display (if a laser printer). If the printer is not receiving the communication from the computer, try restarting the computer. After you have logged in, see if you can print now.
+*Check to see if Printer offline or Paused.
+*If the printer is off-line or paused, the print jobs will just stack up in the print queue but nothing prints.
+*Left mouse-click on the Start button
+*Go to Settings
+*Then choose Printers
+*The Printer folder should open and display the printers installed on this PC.
+*Place your mouse arrow on the printer you are checking and right mouse click. A dialog box should open.
+*If the printer is paused or offline you will see a black check mark next to the words ""Pause Printing"" or ""Printer Offline.""
+*Left mouse-click on the black check mark and see if you can ""uncheck"" it.
+*If the check mark will not go away, try restarting the PC (Start – Shutdown – Restart).
+*Then repeat steps 1 through 7 again.
+*If the printer is still not printing, please contact the Help Desk at x1112
+*Check to see if there multiple jobs in the Print queue.
+*If the printer is a local printer (i.e., there is a cable running directly from the printer to the computer you are printing from), power off the PC, power off the printer, count to 10, and then turn both the printer and the computer back on again. Sometimes this will allow the printer to start printing again.",genericTroubleshoot,0
+5,The printer is printing streaks on the page,"
+*Diagnosis
+*If the printer is a DeskJet, go to the HP DeskJet Utilities menu in the Program menu. Choose the ""Clean the Print Cartridges"" option. If this does not work, try replacing the ink cartridge. If the new cartridge does not help the streaking, place the cartridge back inside the original packaging and save it until the other cartridge has been used up. This just tests to see if the ink cartridge is defective.
+*If the printer is a LaserJet, try changing the toner cartridge. If the new toner cartridge does not improve the streaking problem, return old cartridge to the printer and place the new toner cartridge back in its original packaging for later use.
+*If neither option works, please visit the printer maintenance vendor list to schedule printer service.
+*The printer in spite of everything is not printing?
+*Turn the PC off. If the printer is a local printer, i.e., has a direct cable hookup to the PC, turn the printer off also so both the PC and printer are turned off at the same time. After 30 seconds, turn the PC and the printer back on again. Try to print a Windows test page. If the printer still does not print, please contact the Help Desk x1112.",genericTroubleshoot,0
+6,The computer won't read the CD,"
+*Diagnosis
+*Check to see if the label side of the CD is faced up
+*Check to see if the CD be read from the CD Rom drive of another computer
+*If the CD can be read from another computer's CD ROM drive, the CD ROM drive may be bad and need to be replaced.
+*The CD ROM drive may also have dirt or debris inside. Try cleaning the drive with a standard audio CD player cleaning kit. After cleaning the drive, try to read the CD again.
+*Check to see if the CD scratched or dirty
+*CD, CDR, or CDRW drives read discs by shining a laser onto the CD and then measuring the amount of light that gets reflected back. Most of the time a small scratch won't matter.
+*If the CD is dirty, you can clean the CD using a CD Cleaning kit or you can also use a mild detergent, like dish soap, and warm water, wash the CD and dry with a soft cloth. Once the CD is fully dry, insert the CD into the CD ROM drive and try to read it.
+*If the CD is not dirty, you can try to clean the CD Rom drive using a professional CD cleaner kit
+*Check to see if the CD is a CD-R or CD-RW that was burned
+*A number of older CD drives cannot read some types of CD-R CDs. Try using a different CD-R disk with a different dye under the reflective layer. You will have noticed that some CD-R disks are blue, gold, green, or even silver colored. Some of the colors have a lower light reflectivity value and an older CD Rom drive may have difficulty reading that brand of CD-R media.",genericTroubleshoot,0
+7,Keyboard doesn't respond and gives off a constant beeping noise when booting up,"
+*Diagnosis
+*Check the plug to make sure it's connected securely.
+*Try unplugging it and re-plugging it again. If there is no response, check the indicator light on the keyboard. Is it on? Do the lights respond when you press the caps lock or the num lock key? If not, maybe your keyboard is broken.
+*Check to see if there a key stuck
+*Gently pry off the cover and clean it with alcohol. Make sure it is not connected to your machine when you are cleaning it. The space bar frequently comes off track. Gently pry it off, noting which way the bar lies in your particular keyboard so you can replace it properly.",genericTroubleshoot,0
+8,The mouse is acting erratic,"
+*Diagnosis
+*Reboot the computer and see if that corrects the problem. If not check to see if there is insufficient memory.",genericTroubleshoot,0
+9,"The mouse will only move one way, either vertically or horizontally","
+*Diagnosis
+*Clean the mouse
+*Shut down your machine and unplug your mouse from the computer. Open the underside of the mouse and remove the ball. If the ball is a rubber ball, do not clean it with alcohol. Clean it with a soft cloth. There should be no lubricant placed on a mouse ball. Clean the roller in the body of the mouse with a cotton swab that is slightly damp with alcohol. Replace the ball when the rollers are dry and replace the bottom portion.",genericTroubleshoot,0
+10,My PC is not working on the Network,"
+*Diagnosis
+*Programs that require network drives to run or operate properly: SIS, HR, FRS, PROD – ALPHA, Network Shares, and some school applications. You would also need a network connection to print to the network laser or color laser printers within CCRI.",genericTroubleshoot,0
+11,The desktop Icons are too IMMENSE or too undersized,"*Diagnosis
+*Usually this is due to the Display Settings. The standard video setting for most College software is 800x600. To check the video display settings:
+*Left mouse-click on the Start button (lower left-hand corner of the screen).
+*Go to Settings. Go to Control Panel.
+*Once in the Control Panel, look for the Display icon.
+*Double left mouse-click on the Display icon.
+*In the Display Properties box, left mouse-click on the settings tab.
+*Place your mouse arrow on the slider, hold down the left-mouse button, and move the arrow until the number changes to the desired setting.
+*640x480 screen resolution has fewer pixels so the screen appears larger. 1024x768 screen resolution has more pixels in the same screen area so the appears smaller.",genericTroubleshoot,0
+12,The Screen goes black if not used for a few minutes,"
+*Diagnosis
+*The power saver or energy saver features may be turned on. To correct this problem, you can turn off the feature.
+*Left mouse-click on the Start button (lower left-hand corner of the screen).
+*Go to Settings. Go to Control Panel.
+*Once in the Control Panel, look for the Display icon.
+*Double left mouse-click on the Display icon.
+*Left mouse-click on the Screen Saver tab.
+*Left mouse-click on the Power or Settings button (depends on your version of Windows) in the lower left corner.
+*On the Power schemes tab, you should see where it says ""Turn off monitor:"" with an amount of time next to it. Left mouse-click on the drop-down arrow.
+*Change the time to ""Never.""
+*Left mouse-click on the Apply button in the lower right-hand corner.
+*Left mouse-click on the OK button.
+*Left mouse-click on the next OK button.",genericTroubleshoot,0
+13,No sound is heard from audio (music) CDs,"
+*Diagnosis
+*Look for the Volume icon in the system tray in the lower right-hand corner of the Windows desktop.
+*Place the mouse arrow on this icon.
+*Double left-mouse click. The Volume Control dialog box should appear on the computer screen.
+*Place the mouse arrow on the ""slider"" button and slide the arrow up to increase or down to decrease the volume.
+*If ""Mute all"" check box is checked, there will be no sound. To enable the sound again, uncheck the box.
+*Ensure the speakers are properly connected to the audio card’s output connector and turned on.",genericTroubleshoot,0
+14,There is no volume icon in the lower right corner,"
+*Diagnosis
+*To place the volume icon in the system tray in the lower right of the desktop:
+*Place the mouse arrow on the Start button in the lower left corner.
+*Left mouse-click on Settings.
+*Left mouse-click on the Control Panel
+*Place the mouse arrow on the Multimedia icon. 
+(In Windows XP, look for the Sounds and Audio Devices icon .)
+*Double-left mouse click.
+*Left mouse-click on the Audio file tab.
+*Towards the bottom look for the check box that reads ""Show volume control on taskbar.""
+*Make sure the box is checked to activate the icon.",genericTroubleshoot,0
+15,The cursor is stuck on the hourglass,"
+*Diagnosis
+*Open Task Manager
+*Simultaneously press [Ctrl] [Alt] [Delete]. You will see a list of all tasks (programs) currently running. You may notice one program has ""Not Responding"" instead of ""Running"" listed next to it. Select this task and click the End Task button.
+*Another dialog box will open stating that the program is not responding. Choose End Now to close the program.
+*Reboot your computer (Warm Boot)
+*Resetting a computer that is already turned on:
+*Press [Ctrl] [Alt] [Delete] once to open the Task Manager.
+*Press [Ctrl] [Alt] [Delete] again to restart the computer.
+*Shut down your computer (Cold Boot)
+*Start-up of a computer from a powered-down state. 
+If you restart your computer and the problem isn’t resolved, make an attempt to completely shut down the computer by pressing the power button. Let it set for 15-30 seconds then restart the computer.",genericTroubleshoot,0
+16,"You have run out of disk space on your computer. Music files, movies, digital pictures, and other big data files can fill up your hard drive.","
+*Diagnosis
+*To check for disk space:
+*Open My Computer. Right click on the C: drive and select Properties from the shortcut menu. A pie chart will appear telling you the used and free space.",genericTroubleshoot,0

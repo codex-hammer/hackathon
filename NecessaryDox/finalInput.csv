@@ -1,0 +1,187 @@
+,Title,Resolution,HelpTopic,approved
+0,Need Ethernet access,Please connect the LAN cable to the red port on your workstation. Please write back to IT if you are unable to get the IP addresss,Network & Wireless,0
+1,Need a LAN Cable,Please come to IT desk and collect.,Accessories,0
+2,Need a laptop Conector.,Please come to IT desk and collect.,Accessories,0
+3,Need a mouse,hello Raj Ganpur<br /><br />please come to It desk and collect the mouse.,Accessories,0
+4,Mouse replacement is needed.,hello Raj Ganpur<br /><br />we are replaced the another mouse.<br />hence we closed.<br /><br />Thanks&amp;Regards<br />kumaraswamy annepu,Accessories,0
+8,Create new account and share the username and password,"Go to URL : accountsetup.com, Enter personal details along with user id, enter OTP received, click finish. Check email for details.",Access Requests,0
+9,USB Enabling,"As you requested, we have enabled USB access on your laptop. Please check and confirm it.",Access Requests,0
+18,Request to create login credentials for Mr. Koti,We have already created account and details have been sent to his personal Email ID,Access Requests,0
+19,Request to create login credentials for Dr. Hasan,Account created and details sent to user's personal email ID,Access Requests,0
+20,FW: Myspace Login Issue-- Ania,"Go to URL : password.reset.com, Enter you login id, enter password received, reset the password",Access Requests,0
+21,Login credetials are not working.,"Go to URL : password.reset.com, Enter you login id, enter password received, reset the password",Access Requests,0
+32,Not able to proceed further in ticket.abc.com after logging in,Resolved. Please check the same now.,Access Requests,0
+33,New Account is needed for a new joinee.,"Go to URL : accountsetup.com, Enter personal details along with user id, enter OTP received, click finish. Check email for details.",Access Requests,0
+34,Re: Unable to access outlook and myspace [user id: sdash],"We have reset the password and communicated to user in a mail already, now user is able to login. Hence marking the ticket resolved",Access Requests,0
+48,Removing Person A and Adding Person B to ABC Project,Changes have been done as per the request. Hence closing the request.,Access Requests,0
+74,Name Correction in mail id,Change has been done.,Access Requests,0
+77,Request to configure the system to share it among users,They won't be able to access other profiles if they login with their account. Please ask users to reach out to IT if they have any issues.,Access Requests,0
+91,Unable to connect to internet using wifi network inn009,"inn009 is removed, connect to inn001. Connect IT helpdesk if any more issues.",Network & Wireless,0
+92,Needs permission wifi access to laptop,"First, connect a network cable to your laptop to the red port on your workstation. Run ipconfig /all on your command prompt. Share WiFi Mac or Hardware address to the IT team. IT team then adds your MAC ID to enable WiFi access",Network & Wireless,0
+105,Need Wifi Access Approval,"Not approved by manager, hence closing this ticket.",Network & Wireless,0
+106,Need abc FTP Server Details,IT team has sent the FTP credentials to your email separately. Marking the ticket as closed.,Network & Wireless,0
+111,Need administration acess for installing softwares in my system,<div style=font-size:12pt;color:#000000;background-color:#FFFFFF;font-family:Calibri,Access Requests,0
+114,LAN not working in a VM,changed network settings to Bridged and configured network in VM.,Network & Wireless,0
+120,Need Wave rock VPN,"IT team has provided VPN access. 
+Please follow the instructions on https://ticket.abc.com/kb/faq.php and click on Network Issues and solution and then select SSLVPN configuration for your machines",VPN access,0
+121,Jira project creation and user permission,"IT Team created New Project in Jira and shared details with you in separate mail. 
+Please pass the details to the concerned users individually know if there are any issues/requirements URL:https://jira.abc.com Project Name: P3DataSystemsKey",Jira Requests,0
+132,Public IP Address for Coffee House project ,IT Team has Assigned public IP to the host. IP Address is: 115.111.91.10,Data Center Services,0
+133,Wifi access needed.,"First, connect a network cable to your laptop to the red port on your workstation. Run ipconfig /all on your command prompt. Share WiFi Mac or Hardware address to the IT team. IT team then adds your MAC ID to enable WiFi access",Network & Wireless,0
+134,server#11 got hanged and needed a restart,IT Team has restarted the server and its accessible now.,Data Center Services /Report VM issue,0
+143,Linux VM for Azuba project,IT Team has created VM as per your requirement and configured accordingly and sent the login details in a separate mail.,Data Center Services /VM Request,0
+147,"Login credetials are not working, says username or password wrong.",Password got expired. New password is sent to your email id,Access Requests,0
+159,Install Microsoft outlook,Installed micrsoft outlook on your machine and closing the ticket,Software Request,0
+166,My Space QA application is down,We regret for the inconvinience caused. The issue is with Host server which got rebooted due to a power failure.,Data Center Services /Report VM issue,0
+181,Configure outlook in my system,IT Team has sent the instructions to configure outlook -follow the instructions on https://ticket.abc.com/kb/faq.php and click on O365 and solution and then outlook configuration for your machines,Email Services,0
+182,Mailbox is full ,"IT Team has sent the instructions to cleanup the maibox and archieve mails https://ticket.abc.com/kb/faq.php and click on O365 issues and then Mail box full
+",Email Services,0
+183,Login Page is not getting displayed,Login server was down. It is up now. Please check.,Access Requests,0
+184,Prvide me the admini privileges to install mysql database,Granted admin privileges to install It will get revoked in 24hrs.,Access Requests,0
+185,Prvide me the admini privileges to install mysql database,Granted admin privileges to install It will get revoked in 24hrs.,Access Requests,0
+192,Install postgres database on my machine,"Go to \imfs\software\postgres location, copy postgresql database into local and install",Software Request,0
+193,System showing blue screen on startup,"1. Hold the power button until system gets shut down, then hit the power button to boot the machine. If still blue screen appears contact IT team and surrender the laptop.",Hardware,0
+194,"Unable to install outlook, it is asking for admin access needed",Granted admin privileges to install It will get revoked in 24hrs.,Access Requests,0
+195,Desktop not working,"Please check the Power cables are properly plugged , Please write back to us if the Problem still persists.",Hardware Issue,0
+212,"System behaving strangely, blue screen is appearing in middle","Press F8 button on system start, Choose safe mode, if OS loads then restart the os, if still same issue comes handover it to IT team",Hardware,0
+213,My Internet is not working,"Go to network tab from bottom right corner, choose inn001 network, click on connect",Network,0
+232,"Account got locked, because of 3 wrong attempts os password. Could you please reset the password",Unlocked the account and new password is sent to your email id.,Access Requests,0
+234,System hangs with blue screen on startup,"Press F8 button on system start, Choose safe mode, if OS loads then restart the os, if still same issue comes handover it to IT team",Access Requests,0
+238,Unable to connect to internet using wifi network inn009,"inn009 is removed, connect to inn001",Access Requests,0
+257,Unable to connect to Internet,"Go to network tab from bottom right corner, choose inn001 network, click on connect",Network,0
+258,Facing network/internet issue with wifi xwq090,"Go to network tab from bottom right corner, choose inn001 network, click on connect",Access Requests,0
+275,Replace the battery for my Macbook laptop,Please run Battery Helath test and send us the results IT team will do the needful accordingly. Please follow the steps to cehck the battery Helath https://ticket.abc.com/kb/faq.php Hardware issue-Battery issue,Hardware Issue,0
+280,File Import Error,IMG_20170505_125435.jpg: File size is too large,Access Requests,0
+281,File Import Error,IMG_20170505_125423.jpg: File size is too large,Access Requests,0
+297,File Import Error,IMG_3186.JPG: File size is too large,Access Requests,0
+302,File Import Error,IMG_3190.JPG: File size is too large,Access Requests,0
+314,Computer is not getting switched on,Contact IT support.,Hardware Issue,0
+321,Creation of mail id for new Joinee ,IT Team has Created the mail Id and sent the details in separate email.,Newhire Accounts,0
+334,"Forgot the password, can you please reset the password for me.","Go to URL : password.reset.com, Enter you login id, enter password received, reset the password",Access Requests,0
+345,MySpace Password Expiry,"Please reset the passowrd using self service Portal http://ssp.abc.com, Please write back to us if you face any issue.",Password Reset,0
+361,Login Page Down,Login server was down. It is up now. Please check.,Access Requests,0
+394,install MS office,Please login to web mail and go to settings -office 365 -install applications- download and install MS office for your machine.,Software Installation & Configuration,0
+395,Login Page not opening,Login server was down. It is up now. Please check.,Access Requests,0
+396,Password expired.,"Go to URL : password.reset.com, Enter you login id, enter password received, reset the password",Access Requests,0
+397,Account locked. Not able to login,Unlocked the account and new password is sent to your email id.,Access Requests,0
+0,"My computer does not turn on, what do I do now?","
+*First check the computer's power cord to make sure it is completely plugged into the wall socket. If you are using a plug strip, make sure it is completely plugged into the wall socket and that the power switch on the plug strip is turned on. Some plug strips also have a built in circuit breaker which usually looks like a black or red button near the power switch. Press the button to reset it and see if that solves the problem.",generalFAQ,0
+1,What do I do when my computer crashes?,"
+*There are many reasons why a computer may just stop working or ""freeze"". Most of the time there isn't much we can do about it, it is a fact of life that computer programs have become so complex that occasionally users will experience problems even when performing common tasks. When your computer no longer responds to keyboard commands your best bet is to restart the computer.",generalFAQ,0
+2,What do I do if my hard disk fails to work?,"
+*As with most computer errors, your first step is to shut down your computer and restart it. This will help you determine whether or not you actually have a hard disk problem. If the disk is severely damaged then your computer will probably fail to restart properly. If this is the case then contact MCWare IT Solutions, this is a job for the professionals.",generalFAQ,0
+3,"There is no display on the monitor, what do I do now?","
+*Make sure the monitor is on. If no power light (green or orange light) is seen on the monitor display try pressing the power button until it comes on. If your computer monitor was on and you stepped away from the computer and upon returning it was black, it's likely that the computer is asleep. Try moving your mouse, clicking the mouse buttons, and/or pressing any key (space bar) on the keyboard to wake it up. Make sure that the monitor is connected properly to the back of the computer.",generalFAQ,0
+4,What do I do if the image on screen is distorted or skewed?,"
+*You may receive a distorted image when the cable is loose or defective. Disconnect the video cable going from the back of the computer and verify that no pins are bent, burnt or broken. Once verified re-connect the monitor cable. If the refresh rate is not properly set the monitor may have a wavy or an appearance that lines are going down or across the monitor slowly or fast, this may also cause a flickering affect. A distorted image can be caused by magnetic or other types of interference. Verify no speakers, fans or other magnetic devices are close to the monitor.",generalFAQ,0
+5,"I get a 'no signal input' message, what do I do?","
+*Verify that the monitor is properly connected in the back of the monitor as well as to the back of the computer. If the monitor appears to be connected properly, verify that a cable is not loose by disconnecting all cables that can be disconnected in the back of the monitor (generally the data cable cannot be disconnected). Next, disconnect the data cable connected to the back of the computer and then reconnect the cable. When connecting the cable in the back of the computer ensure the cable connection is tight. Most Computers will also have screw ends that can be screwed in to hold the connector in place.",generalFAQ,0
+6,"There are black borders on my screen, what do I do?","*If the resolution was recently changed it is possible for the monitor to not auto adjust or shift to the correct size. If this occurs, the resolution can be changed back to the original setting or you can manually adjust the monitor. If a black border exists on the monitor it can generally be resolved by manually adjusting the horizontal or vertical width. Because each monitor is different, the method of adjusting this setting will vary; consult your monitor documentation.",generalFAQ,0
+7,Why is my mouse acting erratically?,"
+*Users who have an optical mechanical mouse (most common mouse for desktop computers) are likely experiencing erratic behaviour because the mouse is not clean or is dirty. If you've cleaned the mouse and continue to encounter issues and this mouse has worked in the past fine unfortunately your mouse is likely defective. One additional test that can be done to help determine if this is the case or not is to connect the mouse to another computer. Otherwise we suggest replacing the mouse.",generalFAQ,0
+8,"The wheel on my mouse isn't working properly, what do I do?","
+*If you're running any version of Microsoft Windows and are encountering issues with the mouse wheel, first attempt to adjust the mouse settings through the Mouse Properties window. This window can be accessed by opening the Control Panel and double-clicking the Mouse icon.",generalFAQ,0
+9,How can I clean my keyboard?,"
+*The keys on a keyboard are only clipped on, with a knife or other thin object, carefully pop the keys off, this will allow you to clean under the keys as well as cleaning the keys themselves (make sure you remember where they went!).",generalFAQ,0
+10,How do I get into safe mode?,"
+*To get into the Windows 7 / 10 Safe mode, as the computer is starting up press and hold your ""F8 Key"" which should bring up the ""Windows Advanced Options Menu"". Use your arrow keys to move to ""Safe Mode"" and press your Enter key.",generalFAQ,0
+11,I can't delete a file because it is being used by Windows?,"
+*Close all programs running on the computer and try again. If after closing all programs running on the computer you are still encountering the same issue when attempting to delete files, load the computer into Safe Mode and delete the files.",generalFAQ,0
+12,How can I update my Microsoft Windows computer?,"
+*If you are running Microsoft Windows 7, Windows 10, or a later version of Microsoft Windows, you are eligible to update Microsoft Windows, and in some cases, your computer hardware with the latest drivers through Microsoft's update site, visit http://windowsupdate.microsoft.com. In most cases your computer should be set to automatically update when a new update becomes available.",generalFAQ,0
+13,Is it safe to turn off a Windows computer without doing a shut down?,"
+*Users should not simply press the power button or restart the computer while Windows is still running unless there is an issue with the computer. Microsoft has included the shut down feature because it enables a computer to go through all the necessary steps that are required before turning off the computer. In fact many versions of Microsoft Windows will check the computer for any problems if the computer is not shut down properly.",generalFAQ,0
+14,How can I recover a file from the recycle bin?,"
+*Double click the recycle bin icon on your desktop, here you will see all of the files within your bin. Select the files you wish to recover, right click and choose restore.",generalFAQ,0
+15,I am unable to send or receive email?,"
+*Verify that your computer is able to see the Internet and/or other computers to ensure that your computer is not encountering a connection issue, which would be causing your e-mail issue. Ensure that your Internet e-mail server or your Network e-mail server is not encountering issues by contacting either your Internet Service Provider or your Network administrator.",generalFAQ,0
+16,I can't receive any email attachments?,"
+*If the e-mail box is full of other e-mail messages, and/or your storage space is only a few megabytes, it's possible that the attachment being sent cannot be received. Often if this problem is occurring the person sending the e-mail should get a response back from your e-mail server indicating that your mailbox is full and/or has exceeded its allocated size. Because computer viruses and other malware are best distributed through e-mail, many e-mail service providers, companies, and e-mail programs prevent certain types of file extensions from being distributed or received through e-mail. For example, Microsoft Outlook protect its users by automatically disabling certain file extension types from being received in e-mail.",generalFAQ,0
+17,Are spaces allowed in email addresses?,"
+*Just like an Internet URL no spaces are allowed in an e-mail address. However, names can be broken up using a period; for example, John Smith may have an e-mail address: john.smith@example.com or john.s@example.com because no spaces are allowed in the e-mail address.",generalFAQ,0
+18,My printer is printing smudged/distorted pages?,"
+*When printing on untraditional paper your printer may experience smudges, un-even or crooked text, and/or text that runs off the edges of the paper. Your printer may be printing fuzzy, blurry, and/or other faint text because of dirty print heads. All modern printers have some type of printer cleaning, self-test, and/or diagnose mode that can be performed to check and clean the printers print heads and other internal equipment used to print.",generalFAQ,0
+19,How do I fix a paper jam?,"
+*Turn off the printer. Inspect the location or tray the printed paper ejects to. If the stuck paper is visible manually remove it. Remove all paper trays and any paper that may be stuck between the tray and the printer. If the stuck paper is visible manually remove it. Open the printer door that allows you access to the printer ink cartridges or toner and look for any stuck paper. If the stuck paper is visible manually remove it. Turn the printer back on.",generalFAQ,0
+20,"I lost my printer installation disk, how can I install my printer?","
+*Thankfully a missing printer installation disk or disc is not the end of the world and will not require you to wait until a new diskette or CD can be sent to you. Today all printer and other hardware manufacturers are providing downloads on the Internet to their software programs and drivers that are included with their products.",generalFAQ,0
+21,I can't connect to my network drive anymore?,"
+*Verify that the network cable is properly connected to the back of the computer. In addition, when checking the connection of the network cable, ensure that the LED's on the network are properly illuminated. For example, a network card with a solid green LED or light usually indicates that the card is either connected or receiving a signal. Note: generally, when the green light is flashing, this is an indication of data being sent or received.",generalFAQ,0
+22,How do I map a network drive?,"
+*Open Microsoft Explorer. From Explorer, click the Tools drop down menu and click the option ""Map Network Drive."" Specify the network drive or network computer as the folder. If the computer's name was hope, to map to that computer, type \\hope If you wished to map to a shared folder on the hope computer such as a mp3 folder, you would type \\hope\mp3. If a different username or login is required to connect to this computer or drive it must be specified in this window before clicking the finish.",generalFAQ,0
+23,How do I determine my computer's name?,"
+*Right-click My Computer. Click Properties. In the Properties window, click the Computer Name tab. Within this tab you'll be able to see the full computer name, workgroup and also a description. If you wish to change the name or workgroup, click the Change button.",generalFAQ,0
+24,What is a computer virus?,"
+*A computer virus is a software program that has been intentionally created to cause a user grief, spread to other computers, or destroy data on an individual's computer. To help prevent a computer from becoming infected by a virus, software developers have developed anti virus programs that stay active on the computer helping to protect it. It is important to realize that many computers do not come pre-loaded with these already installed and that if computers do come with these programs, the programs may expire within 90 days.",generalFAQ,0
+25,Does Windows come with a virus protection program?,"
+*All versions of Microsoft Windows do not come pre-installed with a virus protection program. This includes: Microsoft Windows 7 and Windows 10.",generalFAQ,0
+26,Can a virus damage computer hardware?,"
+*No. Computer viruses are software code designed to spread to computer files and other computers, delete files, and cause other problems with the data on the computer. So if you're experiencing an issue with a hardware device such as your printer, video card, sound card, etc. it is not due to a virus.",generalFAQ,0
+27,If I format or erase my hard drive will it remove a virus?,"
+*If your computer is infected with a virus formatting or erasing the hard disk drive and starting over will almost always remove any type of virus. However, keep in mind if backups have been made that contain the virus, other media or drives connected to the computer have a virus, your computer is connected to another computer on a network with a virus, and/or the virus is stored on some other type of software you use with your computer it can become re-infected if not properly protected.",generalFAQ,0
+28,How do I delete Internet cookies?,"
+*Microsoft Internet Explorer users can go to 'Tools' (or the little cog icon in the top left), then go to 'Safety' and choose 'Delete browsing history...', you can then choose to delete your Internet cookies. In Google Chrome, go to 'More Tools' and choose 'Clear browsing data...'. Firefox users can go to 'History', then choose 'Clear recent history...'.",generalFAQ,0
+29,My Computer freezes or is behaving strangely,"
+*Try restarting your computer. Many basic problems can be resolved easily and quickly this way. Press the Ctrl & Alt & Del keys on your keyboard together at the same time. This should bring up a menu that will allow you to run Task Manager. In Task Manager, switch to the Applications tab. Highlight any programs with the status 'Not Responding' and choose End Task. You may be asked to confirm if you want to end the unresponsive program, so choose Yes. Do this for all programs that are not responding. If all else fails and you cannot shutdown/restart your computer, then hold down the power button on the machine until it forcibly turns off. Wait a few seconds and then turn it back on again.",generalFAQ,0
+30,My Computer doesn’t power up,"
+*Check that all the cables are securely plugged into the back of the machine and the monitor.
+*Check that the power cables are plugged into a power socket and the socket has been turned on.
+*Try using a different power socket or, if you are using a power extension strip, plug the power cable directly into a power socket in the wall.
+*Replace the power cable with one that you know works.
+*Check if there are any lights on at the front of the machine:
+*If there are lights on the machine but not the monitor, then it's probably a monitor issue.
+*If there are lights on the monitor but not the machine, then it's probably a machine issue.
+*If there are no lights on anything, then it may be possible there is a local power cut.
+*With laptops, try removing the power cable and the battery. Hold down the power button for about ten seconds, and then plug the battery and power cable in again. Press the power button to see if it switches on.",generalFAQ,0
+31,Nothing appears on Monitor,"
+*Make sure both the computer and monitor are on.
+*Make sure the monitor is securely plugged into the computer.
+*Make sure the power cable is firmly plugged into the monitor.
+*Some computers have multiple display ports, so make sure you have plugged the monitor into the correct one. Try each one in turn, switching the monitor off then on in between moves.
+*Most monitors have a status window displayed when you turn it on. Check if you can see this status window when you press the power button on the monitor. You can also try this with the menu button on the monitor, which should bring up an options menu on the screen. This shows the screen is working ok, so it may be an issue with the video cable from the monitor or the machine itself.
+*Check the brightness & contrast levels of the monitor via the menu button, to make sure it has not been set too dark.
+*Move the mouse and press any key on the keyboard to make sure the screensaver hasn't activated or that the computer hasn't gone into standby/hibernation mode.",generalFAQ,0
+32,Keyboard or mouse doesn’t work,"
+*Make sure the keyboard/mouse is firmly plugged into the back of the computer
+*Try unplugging one or both, and then reinserting it into the back of the computer
+*Try plugging your USB keyboard/mouse into a different USB socket
+*Replace the keyboard/mouse with one that you know works
+*If you cannot see any lights on your keyboard when you press the Caps Lock or Num Lock key, it may be a dead keyboard
+*Make sure there is no dirt or fluff clogging up either the optical laser or roller ball on the underside of your mouse. It may require a clean
+*If you are using a wireless keyboard/mouse, try pressing the reset button on the device or replace the batteries.",generalFAQ,0
+0,PC Won't Boot Into Windows,"
+*Try Safe Mode First
+When your PC just won't boot into Windows at all, you'll probably want to start off with Safe Mode—use the F8 key right when the system starts up to access the menu and see if Windows will boot into Safe Mode. If you're able to get into Windows, the problem is likely something that would load only when you boot normally—graphics card drivers, junk applications, or perhaps some spyware applications.
+*Even Safe Mode Doesn't Work
+If you can't even get into Safe Mode, you should , which can be accessed from the Advanced options in the Safe Mode menu; you can pull out your system repair disc, or your Windows installation disc and use the Repair option. If you're having a , you can use the command prompt from an installation CD and use the bootrec /fixboot command.",generalFAQ,0
+1,PC Crashing or Blue Screening,"
+*If you're using Windows 7 or later and you're getting a blue screen of death, chances are very high that the problem is either driver or hardware related—contrary to legend, Windows just doesn't crash like that very much unless the problem is tied to hardware somehow.
+*Once you've identified the driver causing the problem, try and head into Safe Mode and uninstall or upgrade the driver causing the problem—sometimes the driver won't be visible, so you'll need to . If you're doing a bunch of work in Safe Mode, sometimes it's helpful to  without using the F8 key every time.
+*No Luck? Recover Files and Reinstall
+If you simply can't get anything else to work and you don't have a full backup, your best bet is to , and then start the process of reinstalling Windows again. If you're using the native Windows backup tools, you can , or .",generalFAQ,0
+2,PC Is Running Slowly,"
+*Check Task Manager
+The first thing that every geek is going to do when a computer is running slowly is open up Task Manager, or  (if you've already got it installed) to see what process is taking up the most CPU or memory—that's generally the culprit. While you're in there, it's a good idea to look for other resource-wasting apps that we can kill.
+*Uninstall Crapware
+Now that we've killed the application that's currently killing the CPU, it's time to start getting rid of applications that we don't need. You can use Revo Uninstaller and the  to clean up applications without leaving extra traces.
+*Clean Up the PC
+Cleaning up your PC is really quite easy. You can start by running Disk Cleanup, but if you really want to get the job done, grab yourself a copy of CCleaner and run through a cleaning session. While you're at it, you can  to keep the PC clean on a regular basis.
+*Scan for Viruses and Spyware
+It's a good idea to run a system scan when your PC is running slower than normal and you've already determined that it's not a runaway application. We think .
+*Use the Reliability Monitor
+This under-utilized tool is an  and figure out what might have caused your system problems—it will show you a full history of system crashes, application problems, and even Windows Updates, so you can track down what changed on your system right before your system started running slow. Just type in reliability into the Start Menu search box, and you'll be able to see everything, and even drill down into specific errors to see more details.
+*Use the Advanced Tools in Windows 7
+Windows 7 has quite a number of , but they're buried in Control Panel where you might not think to look. Just head to Performance Information and Tools –> Advanced tools and you'll see a list of performance issues along with suggested fixes for the problems.
+*Trim Down Startup Apps to Speed Up Boot Times
+This applies both when your PC takes forever to boot and when you've got a glut of applications running away in your system tray that you don't need; it's time to trim down your startup applications. You can use the built-in MS Config utility or any number of tweaking applications, but you might want to , which not only helps you disable startup applications, but it shows you exactly which ones are affecting your boot times the most.",generalFAQ,0
+3,Internet Is Slow or Not Loading,"
+*Pull Out the Ping Command
+If you're having problems connecting to the internet, you should first make sure that you are really connected—most of the time you can pull out a command prompt (hit the Windows key, type cmd, hit Enter) and type in a ping command like ping yahoo.com to see if you're getting any response.
+*Disable and Re-Enable Your Connection
+If you're not getting a response, you can try disabling and re-enabling your wireless connection, which solves more problems than it really should. If that doesn't work, use the Windows network troubleshooter by right-clicking your wireless icon, and follow through the steps. Windows will disable and re-enable the adapter again, and wipe the DNS caches as well. If you're still having problems, there's a good chance your internet connection is just down.
+*Slow Response Times
+Sometimes the problem isn't connecting to the internet, but slow response times while you're browsing—or maybe your browser is simply hanging. If you're using Internet Explorer, you can ; if you're using Firefox you can  or just .
+*Web Site Not Loading
+If the problem is a specific web site not loading, you can check  to see if you're the only one having the issue with the web site—or you can often do a quick search on Twitter to see if other people are complaining as well.",generalFAQ,0
+4,Windows Explorer Is Hanging,"
+*If you're having problems loading up Windows Explorer and browsing your file system, the problem is almost always a shell extension that shouldn't be installed, or some shell extensions that are conflicting with each other. For example, the shell extensions for Dropbox and TortoiseSVN tend to cause problems when you put your code into your Dropbox folder, causing hanging and generally slow file browsing.",generalFAQ,0
