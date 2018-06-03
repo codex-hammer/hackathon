@@ -51,11 +51,7 @@ Please pass the details to the concerned users individually know if there are an
 257,Unable to connect to Internet,"Go to network tab from bottom right corner, choose inn001 network, click on connect",Network,0
 258,Facing network/internet issue with wifi xwq090,"Go to network tab from bottom right corner, choose inn001 network, click on connect",Access Requests,0
 275,Replace the battery for my Macbook laptop,Please run Battery Helath test and send us the results IT team will do the needful accordingly. Please follow the steps to cehck the battery Helath https://ticket.abc.com/kb/faq.php Hardware issue-Battery issue,Hardware Issue,0
-280,File Import Error,IMG_20170505_125435.jpg: File size is too large,Access Requests,0
-281,File Import Error,IMG_20170505_125423.jpg: File size is too large,Access Requests,0
-297,File Import Error,IMG_3186.JPG: File size is too large,Access Requests,0
-302,File Import Error,IMG_3190.JPG: File size is too large,Access Requests,0
-314,Computer is not getting switched on,Contact IT support.,Hardware Issue,0
+314,Computer is not getting switched on,"*First check the computer's power cord to make sure it is completely plugged into the wall socket. If you are using a plug strip, make sure it is completely plugged into the wall socket and that the power switch on the plug strip is turned on. Some plug strips also have a built in circuit breaker which usually looks like a black or red button near the power switch. Press the button to reset it and see if that solves the problem.",Hardware Issue,0
 321,Creation of mail id for new Joinee ,IT Team has Created the mail Id and sent the details in separate email.,Newhire Accounts,0
 334,"Forgot the password, can you please reset the password for me.","Go to URL : password.reset.com, Enter you login id, enter password received, reset the password",Access Requests,0
 345,MySpace Password Expiry,"Please reset the passowrd using self service Portal http://ssp.abc.com, Please write back to us if you face any issue.",Password Reset,0
@@ -63,7 +59,7 @@ Please pass the details to the concerned users individually know if there are an
 394,install MS office,Please login to web mail and go to settings -office 365 -install applications- download and install MS office for your machine.,Software Installation & Configuration,0
 395,Login Page not opening,Login server was down. It is up now. Please check.,Access Requests,0
 396,Password expired.,"Go to URL : password.reset.com, Enter you login id, enter password received, reset the password",Access Requests,0
-397,Account locked. Not able to login,Unlocked the account and new password is sent to your email id.,Access Requests,0
+397,Account locked. Unable to login,Unlocked the account and new password is sent to your email id.,Access Requests,0
 0,"My computer does not turn on, what do I do now?","
 *First check the computer's power cord to make sure it is completely plugged into the wall socket. If you are using a plug strip, make sure it is completely plugged into the wall socket and that the power switch on the plug strip is turned on. Some plug strips also have a built in circuit breaker which usually looks like a black or red button near the power switch. Press the button to reset it and see if that solves the problem.",generalFAQ,0
 1,What do I do when my computer crashes?,"
@@ -93,7 +89,7 @@ Please pass the details to the concerned users individually know if there are an
 *Users should not simply press the power button or restart the computer while Windows is still running unless there is an issue with the computer. Microsoft has included the shut down feature because it enables a computer to go through all the necessary steps that are required before turning off the computer. In fact many versions of Microsoft Windows will check the computer for any problems if the computer is not shut down properly.",generalFAQ,0
 14,How can I recover a file from the recycle bin?,"
 *Double click the recycle bin icon on your desktop, here you will see all of the files within your bin. Select the files you wish to recover, right click and choose restore.",generalFAQ,0
-15,I am unable to send or receive email?,"
+15,I am not able to send or receive email?,"
 *Verify that your computer is able to see the Internet and/or other computers to ensure that your computer is not encountering a connection issue, which would be causing your e-mail issue. Ensure that your Internet e-mail server or your Network e-mail server is not encountering issues by contacting either your Internet Service Provider or your Network administrator.",generalFAQ,0
 16,I can't receive any email attachments?,"
 *If the e-mail box is full of other e-mail messages, and/or your storage space is only a few megabytes, it's possible that the attachment being sent cannot be received. Often if this problem is occurring the person sending the e-mail should get a response back from your e-mail server indicating that your mailbox is full and/or has exceeded its allocated size. Because computer viruses and other malware are best distributed through e-mail, many e-mail service providers, companies, and e-mail programs prevent certain types of file extensions from being distributed or received through e-mail. For example, Microsoft Outlook protect its users by automatically disabling certain file extension types from being received in e-mail.",generalFAQ,0
@@ -185,3 +181,5 @@ Sometimes the problem isn't connecting to the internet, but slow response times 
 If the problem is a specific web site not loading, you can check  to see if you're the only one having the issue with the web site—or you can often do a quick search on Twitter to see if other people are complaining as well.",generalFAQ,0
 4,Windows Explorer Is Hanging,"
 *If you're having problems loading up Windows Explorer and browsing your file system, the problem is almost always a shell extension that shouldn't be installed, or some shell extensions that are conflicting with each other. For example, the shell extensions for Dropbox and TortoiseSVN tend to cause problems when you put your code into your Dropbox folder, causing hanging and generally slow file browsing.",generalFAQ,0
+5,I am unable to send or receive email?,"
+*Verify that your computer is able to see the Internet and/or other computers to ensure that your computer is not encountering a connection issue, which would be causing your e-mail issue. Ensure that your Internet e-mail server or your Network e-mail server is not encountering issues by contacting either your Internet Service Provider or your Network administrator.",generalFAQ,0

@@ -116,7 +116,7 @@ def give_answer():
             msg=msg+i
     #--------------------------------------------------------------------
     f = open("templates/answer.html",'w',encoding='utf-8')
-    message = "<html><body bgcolor='#d089f9'><center><font face='Sans-serif'><h2>Hello! Hope this helps</center></h2><br><br><br><div style='width:1300px; border:4px solid white; padding: 15px 15px 15px 15px;'><h2>"+msg+"</h2></div></font><br><br><center><a href='/'><h1>Go Home</h1></a></center></body></html>"
+    message = "<html><body bgcolor='#d089f9'><center><font face='Sans-serif'><h2>Hello! Hope this helps</center></h2><br><br><br><div style='width:1300px; border:4px solid white; padding: 15px 15px 15px 15px;'><h2>"+msg+"</h2></div></font><br><br><center><a href='/'><h1>Go Home</h1></a><a href='aaa2'><h1>Not helping? Try Troubleshooting.</h1></a></center></body></html>"
     f.write(message)
     f.close()
     #--------------------------------------------------------------------
@@ -126,6 +126,10 @@ def give_answer():
 @app.route('/answer')
 def showresult():
     return render_template('answer.html')
+
+@app.route('/aaaaaa')
+def showresult2():
+    return render_template('answer2.html')
 
 @app.route('/ans2', methods=['POST'])
 def give_answer2():
@@ -179,8 +183,8 @@ def give_answer2():
         else:
             msg=msg+i
     #--------------------------------------------------------------------
-    f = open("templates/answer.html",'w',encoding='utf-8')
-    message = "<html><body bgcolor='#d089f9'><center><h2><font face='Sans-serif'>You can follow these steps to troubleshoot your problem.</center></h2><br><br><br><div style='width:1300px; border:4px solid white; padding: 15px 15px 15px 15px;'><h2>"+msg+"</h2></div></font><br><br><center><a href='/'><h1>Go Home</h1></a></center></body></html>"
+    f = open("templates/answer2.html",'w',encoding='utf-8')
+    message = "<html><body bgcolor='#d089f9'><center><h2><font face='Sans-serif'>You can follow these steps to troubleshoot your problem.</center></h2><br><br><br><div style='width:1300px; border:4px solid white; padding: 15px 15px 15px 15px;'><h2>"+msg+"</h2></div></font><br><br><center><a href='/'><h1>Go Home</h1></a><a href='aaa'><h1>Not helping? Try Querying.</h1></a></center></body></html>"
     f.write(message)
     f.close()
     #--------------------------------------------------------------------
