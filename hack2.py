@@ -123,16 +123,8 @@ def give_answer():
     return final_answer
     #return json.dumps({'html': '<span>'+final_answer+'</span>'})
 
-@app.route('/answer')
-def showresult():
-    return render_template('answer.html')
-
-@app.route('/aaaaaa')
-def showresult2():
-    return render_template('answer2.html')
-
 @app.route('/ans2', methods=['POST'])
-def give_answer2():
+def troubleshoot():
     gen_docs = [[w.lower() for w in tokenizer.tokenize(text)] for text in questions]
     titles_train2 = [[x for x in item if not x in stop_words] for item in gen_docs]
     titles_train = [[wordnet_lemmatizer.lemmatize(x) for x in item] for item in titles_train2]
@@ -144,7 +136,7 @@ def give_answer2():
     tf_idf = gensim.models.TfidfModel(corpus)
 
     sims = gensim.similarities.Similarity('buffers/simshack2', tf_idf[corpus], num_features=len(dictionary1))
-    ques2=dict(title=request.form['fname'])
+    ques2=dict(title=request.form['name'])
     query_doc = [w.lower() for w in tokenizer.tokenize(ques2['title'])]
     query_doc_bow = dictionary1.doc2bow(query_doc)
     query_doc_tf_idf = tf_idf[query_doc_bow]
@@ -190,6 +182,15 @@ def give_answer2():
     #--------------------------------------------------------------------
     return final_answer
     #return json.dumps({'html': '<span>'+final_answer+'</span>'})
+
+
+@app.route('/answer')
+def showresult():
+    return render_template('answer.html')
+
+@app.route('/aaaaaa')
+def showresult2():
+    return render_template('answer2.html')
 
 if __name__ == '__main__':
     app.run(port=80, debug=True)

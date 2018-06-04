@@ -61,6 +61,13 @@ body {
   text-align: left;
   margin: 85px 0 0 0;
 }
+
+.container .sign-form2 {
+  width: 600px;
+  text-align: left;
+  margin: 85px 0 0 0;
+}
+
 .container .sign-form #next-page {
   opacity: 0;
   width: 40px;
@@ -195,4 +202,106 @@ body {
     -webkit-transform: translateY(0);
     transform: translateY(0);
   }
+}
+
+
+
+.container .sign-form2 #next-page {
+  opacity: 0;
+  width: 40px;
+  height: 40px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 20px;
+  background: url("https://jdniki.github.io/signup/images/next-page.svg");
+  background-size: contain;
+}
+.container .sign-form2 #next-page:hover {
+  background: url("https://jdniki.github.io/signup/images/next-pagehover.svg");
+  background-size: contain;
+}
+.container .sign-form2 .questions {
+  list-style: none;
+  -webkit-transition: height 0.4s;
+  transition: height 0.4s;
+  width: 88%;
+  display: inline-block;
+  height: 80px;
+}
+.container .sign-form2 .questions li {
+  position: absolute;
+  width: 500px;
+  /*-------------Password ------------------*/
+}
+.container .sign-form2 .questions li span {
+  display: block;
+  margin-bottom: 10px;
+}
+.container .sign-form2 .questions li input {
+  width: 100%;
+  font-size: .9em;
+  color: #f2f2f2;
+  margin: 0.3em 0 1em 0;
+  border: none;
+  background: none;
+  border-bottom: 3px solid #fff;
+  padding: 0.5em 0.1em;
+  transition: all 0.5s ease;
+}
+.container .sign-form2 .questions li input:focus {
+  outline: none;
+  border-bottom: 3px solid #6A79A6;
+}
+.container .sign-form2 .questions li:not(:first-child) {
+  opacity: 0;
+  margin-top: 150px;
+}
+.container .sign-form2 .questions li #viewpswd {
+  position: absolute;
+  opacity: 0;
+}
+.container .sign-form2 .questions li #show-pwd {
+  margin: -2.75em 0em;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  right: 0;
+  color: rgba(255, 255, 255, 0.4);
+  cursor: pointer;
+}
+.container .sign-form2 .questions li #show-pwd.view {
+  background: url("https://jdniki.github.io/signup/images/view.svg");
+  background-size: contain;
+}
+.container .sign-form2 .questions li #show-pwd.hide {
+  background: url("https://jdniki.github.io/signup/images/hide.svg");
+  background-size: contain;
+}
+.container .sign-form2 .questions li #show-pwd:active,
+.container .sign-form2 .questions li #show-pwd:focus {
+  background: url("https://jdniki.github.io/signup/images/hide.svg");
+  background-size: contain;
+}
+.container .sign-form2 .questions li select.country {
+  position: absolute;
+  width: 4.5em;
+  font-size: 0.7em;
+  color: #f2f2f2;
+  height: 70px;
+  background: transparent;
+  border: 1px solid #ccc;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border: none;
+}
+.container .sign-form2 .questions li #phone {
+  padding-left: 5em;
+}
+.container .error-message {
+  color: rgba(207, 0, 0, 0.56);
+  font-size: 14px;
+  margin-top: 10px;
+  padding-bottom: 30px;
+  background: #B7BED8;
 }

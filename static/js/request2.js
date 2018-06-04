@@ -1,5 +1,5 @@
 $(function() {
-    $('#signup2').click(function() {
+    $(document).on('click','.signup',function() {
  
         $.ajax({
             url: '/ans2',
@@ -7,7 +7,6 @@ $(function() {
             type: 'POST',
             success: function(response) {
                 console.log(response);
-				window.location = "answer.html";
             },
             error: function(error) {
                 console.log(error);
